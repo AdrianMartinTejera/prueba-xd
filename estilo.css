@@ -1,3 +1,9 @@
 html{
     background-color: gold;
+    font-family: sans-seriff;
+}
+
+h1{
+    color:red;
+    text-transform: uppercase;
 }
